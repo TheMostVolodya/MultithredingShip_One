@@ -1,2 +1,3 @@
 # MultithredingShip_One
-вавав
+Попытка реализовать в задаче Semaphore и ScheduledExecutorService
+ссылка на задачу - https://habr.com/ru/post/352374/
